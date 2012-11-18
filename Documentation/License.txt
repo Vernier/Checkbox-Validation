@@ -1,0 +1,22 @@
+/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+|     » Copyright Notice «      |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| 
+| » Checkbox Validation         |
+|   1.0 © 2012                  |
+| » Released free of charge     |
+| » You may edit or modify      |
+|   this plugin, however you    |
+|   may not redistribute it.    |
+| » This notice must stay       |
+|   intact for legal use.       |
+|  » For support, please visit  |
+|    http://vernier.me          |
+/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+|    » Checkbox Validation «    |
+|         » 1.0 © 2012 «        |
+\_______________________________/
+
+
+-> Allowed to Use
+-> Allowed to Modify
+-> Not Allowed to Distribute

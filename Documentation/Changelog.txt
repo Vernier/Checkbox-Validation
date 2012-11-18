@@ -1,0 +1,5 @@
+Version 1.0:
+ - Released
+
+Version 1.1:
+ - Fixes an 'incorrect number' error when warning a user & Sending the user a private message notifying them of the warning.
